@@ -1,0 +1,1 @@
+filename.module.css file ye only filename component ne lagu pade filename ni aander na child component ne lagu na pade 
