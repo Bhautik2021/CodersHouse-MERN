@@ -1,1 +1,12 @@
 filename.module.css file ye only filename component ne lagu pade filename ni aander na child component ne lagu na pade 
+
+git commend
+
+(1) repo create kari and first row commend past karva 
+(2) git add .
+(3) git commit -m "String"
+(4) git push
+(5) git checkout -b branceName  // for create a new brance
+(6) git push origin branceName // add brance in git 
+
+so now bathu git hub derectery ma vai jai 
